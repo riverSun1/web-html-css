@@ -12,12 +12,26 @@
     font-style: normal;
     }
 
-h1{
-    font-family: 'LAB디지털';
+h1 {
+    font-family: 'KyoboHandwriting2020A';
+    background: #DB7093;
+    padding: 10px 20px;
+    margin: 10px 5px;
+    text-align: center;
 }
 
-h2, h3{
+h2 {
     font-family: 'KyoboHandwriting2020A';
+    background: #FFB6C1;
+    padding: 10px 15px;
+    margin: 10px 5px;
+}
+
+h3 {
+    font-family: 'KyoboHandwriting2020A';
+    background: #FFE4E1;
+    padding: 5px 10px 5px 10px;
+    margin: 10px 5px;
 }
 
 p{
